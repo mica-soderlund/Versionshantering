@@ -12,4 +12,4 @@ Detta projekt syftar till att jag som student ska förstå och tillämpa enkla s
 
 4. **Klonat repot till min dator** med kommandot:
    ```bash
-   git clone https://github.com/mica-soderlund/mitt-repo.git
+   git clone https://github.com/mica-soderlund/Versionshantering.git
